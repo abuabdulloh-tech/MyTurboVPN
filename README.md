@@ -26,12 +26,8 @@ Tizim: Windows Registry (winreg) orqali internet sozlamalarini boshqarish
 
 🚀 Ishga tushirish
 Kerakli kutubxonalarni o'rnating:
-
-Bash
-pip install PyQt6 requests
+`pip install PyQt6 requests`
 Dasturni ishga tushiring:
-
-Bash
-python main.py
+`python main.py`
 ⚠️ Muhim Eslatma
 Dastur yopilayotgan vaqtda Windows internet sozlamalarini asl holiga qaytaradi. Bu sizning internetingiz "proksi yoqilgan holatda qolib ketishi" natijasida yuzaga keladigan nosozliklarning oldini oladi.
